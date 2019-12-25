@@ -1,0 +1,131 @@
+body {
+	font-family: arial, sans-serif;
+}
+
+li {
+	text-align:center;
+	display: inline;
+	padding: 7px;
+}
+
+a {
+	text-decoration: none;
+	color: rgba(0,0,0,0.87);
+}
+
+li a:hover {
+	text-decoration: underline;
+}
+
+input.div-search-buttons[type="submit"]:hover{
+	box-shadow: 1px 1px 1px #d4d4d4;
+	border: 1px solid #d4d4d4;
+}
+
+.font-buttons {
+	font-size: 15px;
+}
+
+.font-upper-mid {
+	font-size: 13px;
+}
+
+.font-lower {
+	font-size: small;
+}
+
+.float-right {
+	float: right;
+}
+
+.ul-horizontal-list {
+	list-style-type: none;
+	margin: 0;
+	padding: 7px;
+}
+
+.button-sign-in {
+	color: white;
+	/*margin-right: 25px;*/
+	padding: 7px 17px;
+	font-weight: bold;
+	border-width: 0px;
+	background-color: rgb(67, 135, 253);
+	border-radius: 2px; 
+}
+
+.div-image {
+	padding-top: 10%;
+}
+
+.div-search-form {
+	padding-top: 20px;
+}
+
+/* Search area css*/
+
+.text-sizes {
+	width: 40%;
+	height: 40px;
+}
+
+.search-text-area {
+	border: 1px solid #cccccc;
+	border-radius: 20px;
+}
+
+.center-align {
+	display: block;
+	margin: 0 auto;
+}
+
+/*Search buttons*/
+.div-search-buttons {
+	margin: 5px;
+	margin-top: 20px;
+	padding: 10px; 
+	color: grey;
+	border-radius: 4px;
+	background-color: #fffff0;
+	border: 1px solid white;
+}
+
+.a-wiki {
+	color: #1a0dab;
+}
+
+.lower-para {
+	margin-top: 20px;
+	margin: 5px;
+	padding: 10px;
+}
+
+.background-lower {
+	color: grey;
+	background-color: #fffff0;
+}
+
+.text-bottom {
+	color: grey;
+	padding-top: 50px;
+}
+
+.lower-div {
+	padding-left: 14px;
+	color: #5f6368;
+    bottom:0;
+    margin-top: 150px;
+}
+
+.lower-left-div {
+	float: left;
+}
+
+.lower-right-div {
+	float: right;
+}
+
+.font-color-grey {
+	color: #5f6368;
+}
+
